@@ -28,7 +28,7 @@ class IntroApp extends StatelessWidget {
                   letterSpacing: 1.2
               )
           ),
-          textButtonTheme: TextButtonThemeData(
+          textButtonTheme:  TextButtonThemeData(
               style: TextButton.styleFrom(
                   foregroundColor: Colors.pink,
                   textStyle: TextStyle(
